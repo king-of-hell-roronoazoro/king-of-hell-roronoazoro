@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # I'm Karthikeya Pranav
-### Intro
 
-🎓 About Me
+### 🎓 About Me
+
+I enjoy learning how technology works—from writing code to understanding the systems that run it.
+
+I'm currently pursuing a B.Tech in Computer Science and continuously improving my programming, problem-solving, and software engineering skills through projects and hands-on learning.
+
+I believe in getting a little better every day and documenting my progress here on GitHub.
 
 🚀 Current Focus
 
