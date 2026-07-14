@@ -16,3 +16,20 @@ Here are some ideas to get you started:
 -->
 
 # I'm Karthikeya Pranav
+### Intro
+
+🎓 About Me
+
+🚀 Current Focus
+
+🛠 Tech Stack
+
+📚 Currently Learning
+
+📌 Featured Projects
+
+📈 GitHub Stats
+
+🎯 2026 Goals
+
+📫 Contact
