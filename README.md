@@ -46,7 +46,12 @@ I believe in getting a little better every day and documenting my progress here 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-📚 Currently Learning
+### 📚 Currently Learning
+
+- ☕ Java and Object-Oriented Programming
+- 🌿 Version Control with Git & GitHub
+- 🧠 Data Structures & Algorithms
+- 💻 Core Computer Science Concepts
 
 📌 Featured Projects
 
