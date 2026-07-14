@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ahoy there! 👋
 
 <!--
 **king-of-hell-roronoazoro/king-of-hell-roronoazoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
