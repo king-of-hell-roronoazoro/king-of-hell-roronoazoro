@@ -25,9 +25,28 @@ I'm currently pursuing a B.Tech in Computer Science and continuously improving m
 
 I believe in getting a little better every day and documenting my progress here on GitHub.
 
-🚀 Current Focus
+### 🚀 Current Focus
+
+- Java
+- Git & GitHub
+- Computer Science Fundamentals
+- Personal Projects
 
 🛠 Tech Stack
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+#### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 📚 Currently Learning
 
