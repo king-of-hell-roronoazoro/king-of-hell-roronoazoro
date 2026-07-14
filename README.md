@@ -68,6 +68,15 @@ I believe in learning by building, so this section will grow as I create more pr
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 </p>
 
-🎯 2026 Goals
+### 🎯 2026 Goals
+
+- 🎓 Excel in my first year of Computer Science
+- ☕ Master Java and core CS fundamentals
+- 🧠 Become proficient in Data Structures & Algorithms
+- 🚀 Build a portfolio of meaningful projects
+- 🚀 Build 10+ personal projects
+- 🌐 Make my first open-source contribution
+- ⭐ Maintain an active GitHub profile
+- 📖 Continuously improve my software engineering skills
 
 📫 Contact
