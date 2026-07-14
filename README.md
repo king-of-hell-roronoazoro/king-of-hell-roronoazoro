@@ -32,8 +32,6 @@ I believe in getting a little better every day and documenting my progress here 
 - Computer Science Fundamentals
 - Personal Projects
 
-🛠 Tech Stack
-
 ### 🛠️ Tech Stack
 
 #### Languages
