@@ -79,9 +79,7 @@ I believe in learning by building, so this section will grow as I create more pr
 - ⭐ Maintain an active GitHub profile
 - 📖 Continuously improve my software engineering skills
 
-📫 Contact
-
-## 📫 Connect with Me
+### 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/king-of-hell-roronoazoro)
 
