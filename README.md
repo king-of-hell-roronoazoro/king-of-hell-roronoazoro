@@ -36,7 +36,7 @@ I believe in getting a little better every day and documenting my progress here 
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C Language](https://shields.io)
+![C Language](https://img.shields.io/badge/C-Language-00599C)
 
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
